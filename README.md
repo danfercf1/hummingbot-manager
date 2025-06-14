@@ -22,6 +22,4 @@ A bash script to manage multiple Hummingbot trading bot instances running in sep
 1. Save the script to a file:
 
    ```bash
-   curl -o hummingbot-manager.sh https://raw.githubusercontent.com/your-repo/hummingbot-manager/main/hummingbot-manager.sh
-
-   git remote add origin git@github.com:danfercf1/hummingbot-manager.git
+   curl -o hummingbot-manager.sh https://raw.githubusercontent.com/danfercf1/hummingbot-manager/refs/heads/main/manager.sh
